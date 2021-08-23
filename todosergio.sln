@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todosergio.common", "todosergio.common\todosergio.common.csproj", "{938BDE7B-4082-40EC-989A-1143EB8FB41C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todosergio.common", "todosergio.common\todosergio.common.csproj", "{938BDE7B-4082-40EC-989A-1143EB8FB41C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todosergio.Functions", "todosergio.Functions\todosergio.Functions.csproj", "{8BF721DB-8328-421E-A054-777FB6A993F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todosergio.Functions", "todosergio.Functions\todosergio.Functions.csproj", "{8BF721DB-8328-421E-A054-777FB6A993F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todosergio.Tests", "todosergio.Tests\todosergio.Tests.csproj", "{AF3C7C54-5654-4C87-9760-B68F5FE4D2CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todosergio.Tests", "todosergio.Tests\todosergio.Tests.csproj", "{AF3C7C54-5654-4C87-9760-B68F5FE4D2CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
